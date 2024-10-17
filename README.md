@@ -1,3 +1,7 @@
+### **Join Our Community**  
+For updates, support, and future clothing releases, join our Discord community:  
+**[Discord Invite](https://discord.gg/D36ZXnKr2H)**
+
 # Free Drag and Drop Clothes Pack for Male Peds
 
 ### **Description**  
@@ -19,6 +23,4 @@ This is a **FREE drag-and-drop clothing pack** designed specifically for **male 
 3. Add `start <folder-name>` to your `server.cfg`.
 4. Restart your server and enjoy the new outfits for male peds!
 
-### **Join Our Community**  
-For updates, support, and future clothing releases, join our Discord community:  
-**[Discord Invite](https://discord.gg/D36ZXnKr2H)**
+
